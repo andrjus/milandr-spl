@@ -29,7 +29,7 @@
 #include "MDR32F9Qx_config.h"
 #include "MDR32F9Qx_lib.h"
 
-#define USE_JTAG_A
+//#define USE_JTAG_A
 /* #define USE_JTAG_B */
 
 
